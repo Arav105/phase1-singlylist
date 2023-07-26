@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\bin\Debug\phase1-singlylist.exe.config
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\bin\Debug\phase1-singlylist.exe
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\bin\Debug\phase1-singlylist.pdb
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\obj\Debug\phase1-singlylist.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\obj\Debug\phase1-singlylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\obj\Debug\phase1-singlylist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\obj\Debug\phase1-singlylist.exe
+C:\Users\Admin\source\repos\phase1-singlylist\phase1-singlylist\obj\Debug\phase1-singlylist.pdb
